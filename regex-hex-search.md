@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# REGEX Hex values tutorial
 
 Introductory paragraph (replace this with your text)
 
